@@ -1,0 +1,15 @@
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\obj\Debug\net8.0\Orintações á objecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\obj\Debug\net8.0\Orintações á objecto.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\obj\Debug\net8.0\Orintações á objecto.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\obj\Debug\net8.0\Orintações á objecto.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\obj\Debug\net8.0\Orintações á objecto.sourcelink.json
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\bin\Debug\net8.0\Orintações á objecto.exe
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\bin\Debug\net8.0\Orintações á objecto.deps.json
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\bin\Debug\net8.0\Orintações á objecto.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\bin\Debug\net8.0\Orintações á objecto.dll
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\bin\Debug\net8.0\Orintações á objecto.pdb
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\obj\Debug\net8.0\Orintações á objecto.dll
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\obj\Debug\net8.0\refint\Orintações á objecto.dll
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\obj\Debug\net8.0\Orintações á objecto.pdb
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\obj\Debug\net8.0\Orintações á objecto.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Orintações á objecto\obj\Debug\net8.0\ref\Orintações á objecto.dll
