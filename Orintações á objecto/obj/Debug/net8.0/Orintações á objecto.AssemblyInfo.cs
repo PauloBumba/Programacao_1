@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Orintações á objecto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+565da48095fd3835137743772b05a6ad48194cd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c52053ab722caddee2802f9883ac30ecf0177ae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Orintações á objecto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Orintações á objecto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

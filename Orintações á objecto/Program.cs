@@ -1,6 +1,10 @@
 ﻿using System.Data;
-using Orintações_á_objecto.Models;
+using System;
 
+namespace Orintações_á_objecto{
+namespace Models{
+class program {
+static void Main(){
 Costumer c1 =new Costumer();
 
 c1.CostumerId=1;
@@ -12,7 +16,7 @@ c1.EmailAdress="paulomvbumba@gmal.com";
 
 
 Console.WriteLine($"Meu nome {c1.FirstName} {c1.LastName}  ");
-Console.WriteLine($"Meu email  {c1.EmailAdress}  ");
+Console.WriteLine($"Meu email  {c1.EmailAdress}  {c1.BirthDate} ");
 
 
 Adress adress1=new Adress();
@@ -31,14 +35,14 @@ foreach(var Print in c1.Adresses){
 
     Console.WriteLine("--------Rua----------");
     Console.WriteLine($"{Print.Street}");
-    Console.WriteLine(Print.AdressType);
-    Console.WriteLine("--------Estado----------");
-    Console.WriteLine($"{Print.FederalState}");
-    Console.WriteLine("--------Cidade----------");
-    Console.WriteLine($"{Print.City}");
-    Console.WriteLine("--------Numero----------");
-    Console.WriteLine($"{Print.Number}");
-    Console.WriteLine("--------Pais----------");
-    Console.WriteLine($"{Print.Country}");
-   
-}
+        Console.WriteLine(Print.AdressType);
+        Console.WriteLine("--------Estado----------");
+        Console.WriteLine($"{Print.FederalState}");
+        Console.WriteLine("--------Cidade----------");
+        Console.WriteLine($"{Print.City}");
+        Console.WriteLine("--------Numero----------");
+        Console.WriteLine($"{Print.Number}");
+        Console.WriteLine("--------Pais----------");
+        Console.WriteLine($"{Print.Country}");
+    
+    }}}}}
