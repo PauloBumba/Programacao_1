@@ -29,16 +29,16 @@ c1.Adresses.Add(adress1);
 Console.WriteLine("Endereços :");
 foreach(var Print in c1.Adresses){
 
-    Console.WriteLine("--------Rua----------");
+    Console.Write("--------Rua----------");
     Console.WriteLine($"{Print.Street}");
     Console.WriteLine(Print.AdressType);
-    Console.WriteLine("--------Estado----------");
+    Console.Write("--------Estado----------");
     Console.WriteLine($"{Print.FederalState}");
-    Console.WriteLine("--------Cidade----------");
+    Console.Write("--------Cidade----------");
     Console.WriteLine($"{Print.City}");
-    Console.WriteLine("--------Numero----------");
+    Console.Write("--------Numero----------");
     Console.WriteLine($"{Print.Number}");
-    Console.WriteLine("--------Pais----------");
+    Console.Write("--------Pais----------");
     Console.WriteLine($"{Print.Country}");
    
 }

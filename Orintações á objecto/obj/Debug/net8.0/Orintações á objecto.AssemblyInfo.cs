@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Orintações á objecto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f143a4bd6c76a98b92a5c5bca7385fb0c752ec88")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c52053ab722caddee2802f9883ac30ecf0177ae9")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("Orintações á objecto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Orintações á objecto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
