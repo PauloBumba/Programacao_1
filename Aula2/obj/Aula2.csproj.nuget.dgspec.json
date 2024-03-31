@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulo\\OneDrive\\Desktop\\Programacao_1\\Atividades\\Ex004\\Ex004.csproj": {}
+    "C:\\Users\\paulo\\OneDrive\\Desktop\\Programacao_1\\Aula2\\Aula2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulo\\OneDrive\\Desktop\\Programacao_1\\Atividades\\Ex004\\Ex004.csproj": {
+    "C:\\Users\\paulo\\OneDrive\\Desktop\\Programacao_1\\Aula2\\Aula2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Desktop\\Programacao_1\\Atividades\\Ex004\\Ex004.csproj",
-        "projectName": "Ex004",
-        "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Programacao_1\\Atividades\\Ex004\\Ex004.csproj",
+        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Desktop\\Programacao_1\\Aula2\\Aula2.csproj",
+        "projectName": "Aula2",
+        "projectPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Programacao_1\\Aula2\\Aula2.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Programacao_1\\Atividades\\Ex004\\obj\\",
+        "outputPath": "C:\\Users\\paulo\\OneDrive\\Desktop\\Programacao_1\\Aula2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
