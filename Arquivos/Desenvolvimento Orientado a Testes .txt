@@ -1,0 +1,27 @@
+Desenvolvimento Orientado a Testes (TDD):
+Objetivo: O TDD concentra-se em criar código que possa ser amplamente testado.
+Processo:
+	Escreva um teste antes de implementar o código real.
+	Execute o teste e observe quaisquer falhas.
+	Desenvolva o código para que ele passe no teste.
+	Refatore e melhore o código conforme necessário.
+Importância:
+	Garante a qualidade do código, visando 100% de cobertura de testes.
+	Detecta problemas cedo no processo de desenvolvimento.
+	Funciona bem em ambientes ágeis e não ágeis.
+Cenário de Uso:
+	Ideal para garantir robustez e confiabilidade do código.
+-----------------------------------------------------------------------------------------------------------------------
+Desenvolvimento Orientado a Domínio (DDD):
+	Objetivo: O DDD trata da modelagem eficaz de domínios de negócios complexos.
+Aspectos Principais:
+	Modelagem: Foca na criação de um modelo de domínio claro e expressivo.
+	Linguagem Ubíqua: Incentiva o uso de uma linguagem comum compartilhada por desenvolvedores e especialistas de domínio.
+	Contextos Delimitados: Divide o sistema em contextos distintos, cada um com seu próprio modelo de domínio.
+Benefícios:
+	Oferece uma abordagem estruturada para lidar com domínios complexos.
+	Ajuda a gerenciar a complexidade e a manutenção do domínio.
+	Complementa práticas de TDD e BDD.
+Cenário de Uso:
+	Adequado para projetos de grande escala e longa duração com lógica de negócios intrincada.
+	Em resumo, o TDD garante a qualidade do código por meio de testes rigorosos, o BDD captura requisitos orientados a comportamento e o DDD estrutura o código para 	
