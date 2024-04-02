@@ -1,0 +1,15 @@
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\bin\Debug\net8.0\Aula008.exe
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\bin\Debug\net8.0\Aula008.deps.json
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\bin\Debug\net8.0\Aula008.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\bin\Debug\net8.0\Aula008.dll
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\bin\Debug\net8.0\Aula008.pdb
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\obj\Debug\net8.0\Aula008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\obj\Debug\net8.0\Aula008.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\obj\Debug\net8.0\Aula008.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\obj\Debug\net8.0\Aula008.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\obj\Debug\net8.0\Aula008.sourcelink.json
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\obj\Debug\net8.0\Aula008.dll
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\obj\Debug\net8.0\refint\Aula008.dll
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\obj\Debug\net8.0\Aula008.pdb
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\obj\Debug\net8.0\Aula008.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\Aula008\obj\Debug\net8.0\ref\Aula008.dll
