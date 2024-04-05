@@ -15,7 +15,15 @@ class Program {
         int d=++c;
         WriteLine($"C é {c} e d é{d}");
 
+<<<<<<< Updated upstream
         // NESTE CASO O ++ ESTA DO LADO ESUQERDO RDE C 
+=======
+<<<<<<< HEAD
+        // NESTE CASO O ++ ESTA DO LADO ESQuERDO RDE C 
+=======
+        // NESTE CASO O ++ ESTA DO LADO ESUQERDO RDE C 
+>>>>>>> main
+>>>>>>> Stashed changes
         //O cUMULO OCORRERÁ ANTES DA ATRIBUIÇÃO
 
     //cOMBINANDO OPERADORES DE ATRIBUIÇÃO
