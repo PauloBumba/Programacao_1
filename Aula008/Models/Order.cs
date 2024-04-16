@@ -7,6 +7,8 @@ namespace Aula008.Models
 {
     public class Order
     {
+
+        public int Id { get; set;}
         public Custemer ?custemer {get;set;}
         public DateTime Orderdate {get;set;}
         public string ?shipping_adress {get;set;}

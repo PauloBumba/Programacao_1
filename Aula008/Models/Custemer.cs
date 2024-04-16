@@ -11,16 +11,18 @@ namespace Aula008.Models
         public int CustemerId {get;set;}
         public string? Name {set;get;}
         public string? Email_adress {set;get;}
-        public string? HomeAdress {set;get;}
-        public string? WorkAdress {set;get;}
-        public Custemer(){
+       public List<Address> Adresses{get;set;}
+        public Custemer() 
+        {
             
         }
-        public Custemer (int id){
+        public Custemer (int id)
+        {
             CustemerId=id;
 
         }
-        public bool  Validade (){
+        public bool  Validade ()
+        {
           var IsValid=true;
           if(string.IsNullOrEmpty(Name))
             IsValid=false;
@@ -30,13 +32,16 @@ namespace Aula008.Models
           
           return IsValid;
         }
-        public Custemer  Retrieve (int custemerId){
+        public Custemer  Retrieve (int custemerId)
+        {
             return new Custemer();
         }
-        public List<Custemer>  Retrieve (){
+        public List<Custemer>  Retrieve ()
+        {
             return new List<Custemer>();
         }
-        public void Save (Custemer custemer){
+        public void Save (Custemer custemer)
+        {
 
         }
 

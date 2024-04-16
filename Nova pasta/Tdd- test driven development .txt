@@ -37,3 +37,6 @@ Abstração: Representação simplificada de objetos do mundo real.
 Encapsulamento: Ocultação dos detalhes internos de um objeto.
 Herança: Reutilização de código por meio de classes base e derivadas.
 Polimorfismo: Capacidade de objetos de diferentes classes serem tratados de forma uniforme.
+
+
+Design Partner solid 
