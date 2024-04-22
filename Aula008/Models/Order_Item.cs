@@ -7,6 +7,7 @@ namespace Aula008.Models
 {
     public class Order_Item
     {
+        public int Id_order_item { get; set;}
         public Product? product {get;set;}
         public string? Quantity {get;set;}
         public double? Purchase_price {get;set;}
