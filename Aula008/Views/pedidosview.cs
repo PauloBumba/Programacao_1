@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Aula008.Views
 {
-    public class CostumerView
+    public class pedidosview
     {
-        public CostumerView()
+        public pedidosview()
         {
             this.init();
         }
@@ -54,4 +54,4 @@ namespace Aula008.Views
             }while(aux);
     }
 }
-}
+    }

@@ -5,24 +5,24 @@ using System.Threading.Tasks;
 
 namespace Aula008.Views
 {
-    public class CostumerView
+    public class productView
     {
-        public CostumerView()
+        public productView()
         {
             this.init();
         }
         public void init()
         {
-            Console.WriteLine("MENU CUSTOMER");
+            Console.WriteLine("MENU PEDIDOS");
             Console.WriteLine("*************");
             Console.WriteLine("");
 
             bool aux = true;
             do{
                 Console.WriteLine("Escolha uma opção:");
-                Console.WriteLine("1 - Inserir Consumidor");
-                Console.WriteLine("2 - Pesquisar Consumidor");
-                Console.WriteLine("3 - Listar Consumidores");
+                Console.WriteLine("1 - Inserir  produtos");
+                Console.WriteLine("2 - Pesquisar   produtos");
+                Console.WriteLine("3 - Listar   produtos");
                 Console.WriteLine("0 - Sair");
 
                 int menu = 0;
@@ -54,4 +54,4 @@ namespace Aula008.Views
             }while(aux);
     }
 }
-}
+    }
