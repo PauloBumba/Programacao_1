@@ -1,0 +1,15 @@
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\bin\Debug\net8.0\trabalhhando com Crud.exe
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\bin\Debug\net8.0\trabalhhando com Crud.deps.json
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\bin\Debug\net8.0\trabalhhando com Crud.runtimeconfig.json
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\bin\Debug\net8.0\trabalhhando com Crud.dll
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\bin\Debug\net8.0\trabalhhando com Crud.pdb
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\obj\Debug\net8.0\trabalhhando com Crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\obj\Debug\net8.0\trabalhhando com Crud.AssemblyInfoInputs.cache
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\obj\Debug\net8.0\trabalhhando com Crud.AssemblyInfo.cs
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\obj\Debug\net8.0\trabalhhando com Crud.csproj.CoreCompileInputs.cache
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\obj\Debug\net8.0\trabalhhando com Crud.sourcelink.json
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\obj\Debug\net8.0\trabalhhando com Crud.dll
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\obj\Debug\net8.0\refint\trabalhhando com Crud.dll
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\obj\Debug\net8.0\trabalhhando com Crud.pdb
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\obj\Debug\net8.0\trabalhhando com Crud.genruntimeconfig.cache
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\trabalhhando com Crud\obj\Debug\net8.0\ref\trabalhhando com Crud.dll
