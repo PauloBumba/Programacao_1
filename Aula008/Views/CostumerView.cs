@@ -1,7 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
+using Aula008.data;
+using Aula008.Models;
 
 namespace Aula008.Views
 {
@@ -35,8 +38,13 @@ namespace Aula008.Views
                             aux = false;
                         break;
                         case 1:
+
                         break;
                         case 2:
+                        var nome =new Custemer{};
+                        
+                        nome.SearchName("paulo");
+
                         break;
                         case 3: 
                         break;

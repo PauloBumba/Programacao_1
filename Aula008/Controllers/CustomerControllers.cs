@@ -26,8 +26,6 @@ namespace Aula008.Controllers
             public Custemer Get(int id){
                 return customerRepository.Retrieve(id);
             }
-            public  List<Custemer> Get(){
-                return customerRepository.Retrieve();
-            }
+           
     }
 }

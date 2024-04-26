@@ -2,7 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http.Headers;
+using System.Reflection.Metadata;
 using System.Threading.Tasks;
+using Microsoft.VisualBasic;
 
 namespace Aula008.Models
 {
@@ -39,7 +41,12 @@ namespace Aula008.Models
         public void Save (Custemer custemer){
 
         }
-
+        public string  SearchName(string name  ) {
+          Name=name;
+          return Name;
+            
+            
+        }
 
     }
 }
