@@ -1,0 +1,42 @@
+LINQ (Language Integrated Query) é uma poderosa extensão do C# que permite a realização de consultas complexas de maneira concisa e legível. Vou listar alguns dos métodos e propriedades mais comuns dentro do LINQ e explicar brevemente o que cada um faz:
+
+Métodos de Filtragem:
+
+Where: Filtra uma sequência de valores com base em uma condição.
+Select: Projeta valores que estão em uma sequência em uma nova forma.
+SelectMany: Projeta sequências de valores que são obtidas ao aplicar uma função de transformação a cada elemento da sequência de entrada e então achatando as sequências resultantes em uma única sequência.
+Métodos de Ordenação:
+
+OrderBy: Ordena os elementos de uma sequência em ordem crescente com base em uma chave.
+OrderByDescending: Ordena os elementos de uma sequência em ordem decrescente com base em uma chave.
+ThenBy: Realiza uma subsequente ordenação em ordem crescente dos elementos de uma sequência.
+ThenByDescending: Realiza uma subsequente ordenação em ordem decrescente dos elementos de uma sequência.
+Métodos de Agrupamento:
+
+GroupBy: Agrupa os elementos de uma sequência com base em uma chave especificada.
+Métodos de Quantificação:
+
+Any: Determina se qualquer elemento de uma sequência satisfaz uma condição.
+All: Determina se todos os elementos de uma sequência satisfazem uma condição.
+Contains: Determina se uma sequência contém um elemento especificado.
+Métodos de Agregação:
+
+Count: Conta os elementos de uma sequência.
+Sum: Calcula a soma dos valores em uma sequência.
+Average: Calcula o valor médio dos valores em uma sequência.
+Min: Encontra o valor mínimo em uma sequência.
+Max: Encontra o valor máximo em uma sequência.
+Métodos de Elemento:
+
+First: Retorna o primeiro elemento de uma sequência.
+FirstOrDefault: Retorna o primeiro elemento de uma sequência ou um valor padrão se a sequência não contiver elementos.
+Single: Retorna um único elemento específico de uma sequência.
+SingleOrDefault: Retorna um único elemento específico de uma sequência, ou um valor padrão se a sequência está vazia ou se nenhum elemento satisfaz a condição.
+Métodos de Conjunto:
+
+Distinct: Remove valores duplicados de uma sequência.
+Union: Produz a união de duas sequências.
+Intersect: Produz a interseção de duas sequências.
+Except: Produz a diferença de duas sequências.
+Esses são apenas alguns dos muitos métodos disponíveis no LINQ. Cada um desses métodos pode ser usado para manipular e consultar dados de coleções, arrays, listas e até mesmo fontes de dados como bancos de dados quando usado com o Entity Framework.
+
