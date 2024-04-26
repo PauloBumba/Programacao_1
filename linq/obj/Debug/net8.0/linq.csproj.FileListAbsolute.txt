@@ -1,0 +1,15 @@
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\bin\Debug\net8.0\linq.exe
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\bin\Debug\net8.0\linq.deps.json
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\bin\Debug\net8.0\linq.runtimeconfig.json
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\bin\Debug\net8.0\linq.dll
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\bin\Debug\net8.0\linq.pdb
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\obj\Debug\net8.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\obj\Debug\net8.0\linq.AssemblyInfoInputs.cache
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\obj\Debug\net8.0\linq.AssemblyInfo.cs
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\obj\Debug\net8.0\linq.csproj.CoreCompileInputs.cache
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\obj\Debug\net8.0\linq.sourcelink.json
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\obj\Debug\net8.0\linq.dll
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\obj\Debug\net8.0\refint\linq.dll
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\obj\Debug\net8.0\linq.pdb
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\obj\Debug\net8.0\linq.genruntimeconfig.cache
+C:\Users\guina\OneDrive\Documentos\GitHub\Programacao_1\linq\obj\Debug\net8.0\ref\linq.dll
