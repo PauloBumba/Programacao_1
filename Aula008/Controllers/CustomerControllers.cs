@@ -11,7 +11,7 @@ namespace Aula008.Controllers
     public class CustomerControllers
     {
       
-            private CustomerRepository customerRepository;
+           
             public CustomerControllers()
             {
                 customerRepository = new CustomerRepository();
