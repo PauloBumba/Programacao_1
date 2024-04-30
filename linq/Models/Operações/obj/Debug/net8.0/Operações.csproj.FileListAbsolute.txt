@@ -1,0 +1,15 @@
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\bin\Debug\net8.0\Operações.exe
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\bin\Debug\net8.0\Operações.deps.json
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\bin\Debug\net8.0\Operações.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\bin\Debug\net8.0\Operações.dll
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\bin\Debug\net8.0\Operações.pdb
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\obj\Debug\net8.0\Operações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\obj\Debug\net8.0\Operações.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\obj\Debug\net8.0\Operações.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\obj\Debug\net8.0\Operações.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\obj\Debug\net8.0\Operações.sourcelink.json
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\obj\Debug\net8.0\Operações.dll
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\obj\Debug\net8.0\refint\Operações.dll
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\obj\Debug\net8.0\Operações.pdb
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\obj\Debug\net8.0\Operações.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\Programacao_1\linq\Models\Operações\obj\Debug\net8.0\ref\Operações.dll
